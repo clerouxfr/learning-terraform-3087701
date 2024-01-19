@@ -3,9 +3,9 @@
 #  default     = "t3.nano"
 #}
 variable "AWS_SECRET_ACCESS_KEY" {
-  default = ""
+  default = "Z1xPZJics9xp3pL0k3DEh9+5SquxFmp/4IEiTsqA"
 }
 
 variable "AWS_ACCESS_KEY_ID" {
-  default = ""
+  default = "AKIAZQ3DRYMNI3MTHPQN"
 }
